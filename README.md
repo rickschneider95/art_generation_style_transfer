@@ -11,6 +11,6 @@ This will create a folder containing all the images scraped, named abstract in t
 
 **CREDITS**
 
-Source for the image generation DCGAN: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
-Source for style transfer: https://github.com/gsurma/style_transfer
+* Source for the image generation DCGAN: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+* Source for style transfer: https://github.com/gsurma/style_transfer
 
