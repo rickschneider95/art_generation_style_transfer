@@ -8,3 +8,8 @@ To run the art scraping python (genre-scraper.py) must do the following:
 
 This will create a folder containing all the images scraped, named abstract in the test folder created above
 
+
+**CREDITS**
+Source for the image generation DCGAN: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+Source for style transfer: https://github.com/gsurma/style_transfer
+
